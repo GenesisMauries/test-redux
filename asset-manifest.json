@@ -1,13 +1,13 @@
 {
-  "main.css": "/test-redux/static/css/main.5b390934.chunk.css",
-  "main.js": "/test-redux/static/js/main.430b336e.chunk.js",
-  "main.js.map": "/test-redux/static/js/main.430b336e.chunk.js.map",
+  "main.css": "/test-redux/static/css/main.74093081.chunk.css",
+  "main.js": "/test-redux/static/js/main.22bf1c49.chunk.js",
+  "main.js.map": "/test-redux/static/js/main.22bf1c49.chunk.js.map",
   "runtime~main.js": "/test-redux/static/js/runtime~main.fb7d172f.js",
   "runtime~main.js.map": "/test-redux/static/js/runtime~main.fb7d172f.js.map",
-  "static/js/2.f213e47f.chunk.js": "/test-redux/static/js/2.f213e47f.chunk.js",
-  "static/js/2.f213e47f.chunk.js.map": "/test-redux/static/js/2.f213e47f.chunk.js.map",
+  "static/js/2.7ff5f272.chunk.js": "/test-redux/static/js/2.7ff5f272.chunk.js",
+  "static/js/2.7ff5f272.chunk.js.map": "/test-redux/static/js/2.7ff5f272.chunk.js.map",
   "index.html": "/test-redux/index.html",
-  "precache-manifest.89896ead41edb92f4d7ea306d9f3c34d.js": "/test-redux/precache-manifest.89896ead41edb92f4d7ea306d9f3c34d.js",
+  "precache-manifest.fe2752212d2babc9244382398405c90d.js": "/test-redux/precache-manifest.fe2752212d2babc9244382398405c90d.js",
   "service-worker.js": "/test-redux/service-worker.js",
-  "static/css/main.5b390934.chunk.css.map": "/test-redux/static/css/main.5b390934.chunk.css.map"
+  "static/css/main.74093081.chunk.css.map": "/test-redux/static/css/main.74093081.chunk.css.map"
 }
