@@ -4,23 +4,23 @@ self.__precacheManifest = [
     "url": "/test-redux/static/js/runtime~main.fb7d172f.js"
   },
   {
-    "revision": "808889694af3559592ac",
-    "url": "/test-redux/static/js/main.998ba589.chunk.js"
+    "revision": "6ca556702d6d3b87967f",
+    "url": "/test-redux/static/js/main.d4fde2d1.chunk.js"
   },
   {
-    "revision": "a538dd407fe7a27275b5",
-    "url": "/test-redux/static/js/2.f2f77219.chunk.js"
+    "revision": "7e8c10725168eaddd4c7",
+    "url": "/test-redux/static/js/2.39a9b3cc.chunk.js"
   },
   {
-    "revision": "808889694af3559592ac",
+    "revision": "6ca556702d6d3b87967f",
     "url": "/test-redux/static/css/main.74093081.chunk.css"
   },
   {
-    "revision": "a538dd407fe7a27275b5",
+    "revision": "7e8c10725168eaddd4c7",
     "url": "/test-redux/static/css/2.f159641a.chunk.css"
   },
   {
-    "revision": "3004e977f16dbb9ef99887ff577355af",
+    "revision": "e6be77caf47a239f560ed864ca44867d",
     "url": "/test-redux/index.html"
   }
 ];
